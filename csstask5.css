@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(224, 226, 69);
+}
+.container{
+    text-align: center;
+    color: purple;
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+    margin-left: 400px;
+}
+h1{
+    font-size: 35px;
+    text-align: justify;
+    margin-left: 400px;
+
+}
+
+hr{
+    width: 70%;
+    border-top: 4px solid #860175;
+    
+}
+table{
+    position: absolute;
+    top: 0;
+    margin-top: 30px;
+    
+
+}
+tr, td{
+    background-color: white;
+    padding: 5px;
+    
+}
+.blank{
+    width: 25px;
+    background-color: black;
+}
+.link{
+    width: 170px;
+    height: 20px;
+}

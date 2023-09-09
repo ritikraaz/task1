@@ -1,0 +1,21 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+
+.heading{
+    background-color: rgb(88, 201, 98);
+}
+
+.even{
+    background-color: rgb(238, 237, 237);
+}
+
+.odd{
+    background-color: rgb(255, 255, 255);
+}
+td {
+    border: 1px solid #ddd;
+    width: 250px;
+}

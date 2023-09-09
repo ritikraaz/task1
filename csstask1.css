@@ -1,0 +1,50 @@
+table{
+    background-color: aquamarine;
+    border-spacing: 10;
+    width: 100%;
+    border: 1px solid black;
+    border-radius: 10px;
+    
+}
+.shape{
+    display: inline-block;
+}
+
+th , td{
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.square{
+    margin-left: 30px;
+    margin-right: 30px;
+    width: 50px;
+    height: 50px;
+    border: 3px solid rgb(65, 153, 25);
+}
+
+.rectangle{
+    margin-left: 30px;
+    margin-right: 30px;
+    width: 100px;
+    height: 50px;
+    border: 3px solid rgb(65, 153, 25);
+    
+}
+.rect-roundedge{
+    margin-left: 30px;
+    margin-right: 30px;
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    border: 3px solid rgb(65, 153, 25);
+}
+
+.circle{
+    margin-left: 30px;
+    margin-right: 30px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 3px solid rgb(65, 153, 25);
+}

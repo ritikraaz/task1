@@ -1,0 +1,9 @@
+table{
+    border-spacing: 10;
+    width: 100%;
+    
+}
+
+th , td{
+    background-color: aqua;
+}

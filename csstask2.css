@@ -1,0 +1,35 @@
+/* Common Styles for Both Navigation Bars */
+.navbar {
+    background-color: #a9d6f0;
+    text-align: center;
+}
+
+.navbar a {
+    color: rgb(18, 22, 231);
+    text-decoration: none;
+    padding: 10px 20px;
+    transition: background-color 0.3s ease; /* Smooth color transition */
+}
+
+.navbar a:hover {
+    background-color: #f2fd52;
+}
+
+/* Horizontal Navigation Bar */
+.horizontal-navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+}
+
+/* Vertical Navigation Bar */
+.vertical-navbar {
+    display: block;
+    padding: 10px;
+}
+
+.vertical-navbar a {
+    display: block;
+    margin-bottom: 10px;
+}
